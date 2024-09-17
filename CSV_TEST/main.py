@@ -1,7 +1,7 @@
 import pandas as pd
 
 # CSV File Path
-csv_path = "gc24_analise//PandasPython//data.csv"
+csv_path = ".//data.csv"
 
 # CSV DataFrame Creation
 df = pd.read_csv(csv_path)
